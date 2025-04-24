@@ -1,4 +1,5 @@
-dotdotdot Terms of Service
+# dotdotdot Terms of Service
+
 Hello and welcome! These Terms of Service are an agreement formed between you and Amore-Lab Inc.
 
 They cover the website available at dotdotdot (the “Website”), and the dotdotdot mobile application (the “App”). In these Terms we’ll sometimes refer to Amore-Lab Inc. as “dotdotdot,” “Company,” “we,” or “us.” We’ll refer to our Website and App, together with any content, tools, features, and functionality offered on or through them, as the “Services.”
