@@ -1,1 +1,0 @@
-# amore-lab.github.io
